@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "captain",
+      "lastname": "shaikh",
+      "email": "captain@afsar.com",
+      "age": "25",
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "iron",
+      "lastname": "shaikh",
+      "email": "iron@iron.com",
+      "age": "26",
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "firstname": "marvel",
+      "lastname": "hoor",
+      "email": "hoor@noor.com",
+      "age": "27",
+      "companyId": "1"
+    },
+    {
+      "id": "4",
+      "firstname": "hulk",
+      "lastname": "khan",
+      "email": "hulk@saif.com",
+      "age": "32",
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "apple",
+      "description": " hey i am apple bla bla bla bla bla bla"
+    },
+    {
+      "id": "2",
+      "name": "microsoft",
+      "description": " hey i am microsoft bla bla bla bla bla bla"
+    },
+    {
+      "id": "3",
+      "name": "google",
+      "description": " hey i am google bla bla bla bla bla bla"
+    }
+  ]
+}
